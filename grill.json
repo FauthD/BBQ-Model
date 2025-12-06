@@ -1,0 +1,38 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "cover": {
+            "PrintThis": "cover"
+        },
+        "lower": {
+            "PrintThis": "lower"
+        },
+        "upper": {
+            "PrintThis": "upper"
+        },
+        "wheel": {
+            "PrintThis": "wheel"
+        },
+        "wheel_washer": {
+            "PrintThis": "wheel_washer"
+        },
+        "handle": {
+            "PrintThis": "handle"
+        },
+        "knob": {
+            "PrintThis": "knob"
+        },
+        "platform": {
+            "PrintThis": "platform"
+        },
+        "mount_open_PNG": {
+            "PrintThis": "mount_open"
+        },
+        "mount_all_PNG": {
+            "PrintThis": "mount_all"
+        },
+        "all_PNG": {
+            "PrintThis": "all"
+        }
+    }
+}
