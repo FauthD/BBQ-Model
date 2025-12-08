@@ -6,7 +6,7 @@ I created it because we needed some nice way to present a gift (money for a BBQ 
 There is enough space inside for even a bigger amount.
 
 Inspired by this nice design:
-https://www.thingiverse.com/thing:6632766. Created from scatch with openscad.
+https://www.thingiverse.com/thing:6632766. Created from scratch with openscad.
 
 
 # Customizer
