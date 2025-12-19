@@ -25,7 +25,8 @@ Find the .stl files in the STL folder.
 <img title="All" src="PNG/all_PNG.png" width="400">
 <img title="Closed" src="PNG/mount_all_PNG.png" width="400">
 <img title="open" src="assets/open.jpg" width="400">
-<img title="closed" src="assets/closed.jpg" width="400">
+<img title="closed" src="assets/closed.jpg" width="415">
+<img title="closed" src="assets/gift.jpg" width="400">
 
 ## Parts
 The grill consist of quite a few printed parts. This allows for different colors. In my case I used gray and black.
